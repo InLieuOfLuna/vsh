@@ -1,4 +1,0 @@
-L 09/05/2021 - 22:47:13: SourceMod log file session started (file "/home/steam/steamcmd/tf2/tf/addons/sourcemod/logs/L20210905.log") (Version "1.10.0.6510")
-L 09/05/2021 - 22:47:13: [TF2ITEMS] "GiveNamedItem" offset = 485
-L 09/05/2021 - 23:05:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tf_airblast_cray") (value "0")
-L 09/06/2021 - 00:25:22: Log file closed.
