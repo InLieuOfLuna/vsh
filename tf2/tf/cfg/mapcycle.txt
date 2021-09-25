@@ -1,3 +1,4 @@
 vsh_reservoir_v2
 vsh_military_area_b1
 vsh_2fortdesk_v8
+vsh_hakurei_shrine_v3
