@@ -12,6 +12,8 @@ A very simple server containing a minimal build of vsh2
   * Amplifier
 * Maps
   * vsh_reservoir_v2
+  * vsh_weaponsdepot_final
+  * arena_farm_feud_b1
 
 # Contributors
 
