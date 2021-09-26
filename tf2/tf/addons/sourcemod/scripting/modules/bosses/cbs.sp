@@ -66,7 +66,7 @@ methodmap CChristian < BaseBoss {
 		this.SetName("The Christian Brutal Sniper");
 		this.RemoveAllItems();
 		char attribs[128];
-		Format(attribs, sizeof(attribs), "68; 2.0; 2; 3.1; 259; 1.0");
+		Format(attribs, sizeof(attribs), "68; 2.0; 2; 3.1; 259; 1.0; 0.6; 214");
 		int SaxtonWeapon = this.SpawnWeapon("tf_weapon_club", 171, 100, 5, attribs);
 		SetEntPropEnt(this.index, Prop_Send, "m_hActiveWeapon", SaxtonWeapon);
 	}
