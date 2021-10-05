@@ -25,4 +25,4 @@ A very simple server containing a minimal build of [VSH2](VSH2-Devs/Vs-Saxton-Ha
 
 # License
 
-[MIT](/LICENSE)
+[Unlicense](/LICENSE)
